@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Board()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Board\n
+comment1.params=
+comment1.target=char[][]\ getboard()
+comment2.params=
+comment2.target=void\ drawboard()
+comment2.text=\n\ Draws\ board\ \n
+comment3.params=xaxis\ yaxis\ piece
+comment3.target=void\ playBoard(int,\ int,\ char)
+comment4.params=xaxis\ yaxis
+comment4.target=boolean\ checkBoard(int,\ int)
+comment5.params=p1\ p2
+comment5.target=boolean\ checkWin(java.lang.String,\ java.lang.String)
+comment5.text=\n\ checks\ for\ win\n
+numComments=6
